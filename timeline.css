@@ -1,4 +1,6 @@
-.main-timeline{ position: relative; }
+.main-timeline{
+    position: relative; 
+}
 .main-timeline:before,
 .main-timeline:after{
     content: "";
@@ -62,17 +64,24 @@
 /*    border-top-color: #e3b457;*/
 /*}*/
 .main-timeline .year{
-    display: block;
-    font-size: 24px;
-    color: #e3b457;
-    line-height: 32px;
-    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: 500;
+    /*font: 400 14px/16px 'Bree Serif', Georgia, serif;*/
+    color: #646464;
+    
+    /*display: block;*/
+    /*font-size: 24px;*/
+    /*color: #e3b457;*/
+    /*line-height: 32px;*/
+    /*margin: 0;*/
     transition: all 0.3s ease 0s;
 }
 .main-timeline .post{
     display: block;
     font-size: 20px;
-    color: #22272c;
+    color: #858484;
     padding-bottom: 8px;
     margin: 8px 0 15px 0;
     position: relative;
