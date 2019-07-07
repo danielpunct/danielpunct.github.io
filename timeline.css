@@ -92,6 +92,10 @@
 .main-timeline .tags-icon{
     height: 20px;
 }
+.main-timeline .tags-icon:before{
+
+    color: #7a7e82;
+}
 
 .main-timeline .post{
     display: block;
