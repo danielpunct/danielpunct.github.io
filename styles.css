@@ -5,8 +5,8 @@ body{
 	color: #d9d7d7;
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color: #cdd0a8;}
-h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
+h2{font: 400 22px/26px 'Bree Serif', Georgia, serif; color: #e3b457;}
+h3{font: 400 18px/20px 'Bree Serif', Georgia, serif; color: #908f8f;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
 a:hover {color:#979797;}
@@ -14,11 +14,12 @@ a img{border:0px;}
 
 #container{
 	width:950px;
-	margin:0px auto 300px auto;
+	margin:0 auto 300px auto;
 	background:url(images/page-bg.jpg);
 	/*background:url(images/body-bg.png);*/
 	overflow:auto;
 	padding-bottom:100px;
+	position: relative;
 }
 
 /****************************************************/
@@ -34,6 +35,7 @@ a img{border:0px;}
 	top:0px;
 	left:50%;
 	margin: 0 0 0 -475px;
+	z-index: 10000;
 }
 #header #logo{
 	padding-top:40px;
@@ -51,7 +53,10 @@ a img{border:0px;}
 /* ABOUT SECTION */
 /****************************************************/
 
-#about{margin:0px 43px; padding-top:115px;}
+#about{
+	margin:0px 43px; 
+	padding-top:115px;
+}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
