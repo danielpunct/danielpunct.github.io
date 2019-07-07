@@ -81,7 +81,7 @@
 .main-timeline .post{
     display: block;
     font-size: 20px;
-    color: #858484;
+    /*color: #858484;*/
     padding-bottom: 8px;
     margin: 8px 0 15px 0;
     position: relative;
@@ -90,7 +90,7 @@
     content: "";
     display: block;
     width: 30px;
-    border-top: 2px solid #22272c;
+    border-top: 2px solid #363636;
     position: absolute;
     bottom: 0;
     left: 0;
