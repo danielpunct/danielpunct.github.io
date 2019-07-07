@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26aa3539-d6ce-41d4-b55b-455a6d102040" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/IMG_7929 - Copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/csharp.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/csharp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/csharp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/designer-photo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/timeline.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +12,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2134">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="264">
+              <caret line="135" column="86" selection-start-line="135" selection-start-column="86" selection-end-line="135" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="-384">
               <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
             </state>
           </provider>
@@ -66,8 +61,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/timeline.css" />
+        <option value="$PROJECT_DIR$/index.htm" />
       </list>
     </option>
   </component>
@@ -148,12 +143,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562490702386</updated>
       <workItem from="1562490705394" duration="4490000" />
-      <workItem from="1562498247385" duration="11213000" />
+      <workItem from="1562498247385" duration="11454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15703000" />
+    <option name="totallyTimeSpent" value="15944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,13 +214,6 @@
     <entry file="file://$PROJECT_DIR$/images/IMG_7929.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2134">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-572">
@@ -235,8 +223,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="-384">
           <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="135" column="86" selection-start-line="135" selection-start-column="86" selection-end-line="135" selection-end-column="86" />
         </state>
       </provider>
     </entry>
