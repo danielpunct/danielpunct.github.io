@@ -132,6 +132,20 @@ a img{border:0px;}
 }
 #work #work-thumbs li.last{margin:0px;}
 
+#work .imageTags{
+	background-color: black;
+	padding-left: 10px;
+	bottom: 55px;
+	/*height: 20px;*/
+	position: relative;
+	z-index: 10000;
+    margin-bottom: -25px;
+	alignment: bottom;
+}
+/*#work .imageTags-text{*/
+/*	height: 20px;*/
+/*}*/
+
 /****************************************************/
 /* CONNECT SECTION */
 /****************************************************/
