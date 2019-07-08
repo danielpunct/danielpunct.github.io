@@ -110,6 +110,14 @@ a img{border:0px;}
 #experience .content{overflow:auto;}
 #experience .col-mid{margin:10px 0px;}
 
+/*skils*/
+#skills{margin:0px 43px; padding-top:115px;}
+#skills .col{
+	width:235px;
+	float:left;
+}
+#skills .content{overflow:auto;}
+#skills .col-mid{margin:10px 0px;}
 /****************************************************/
 /* WORK SECTION */
 /****************************************************/
