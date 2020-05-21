@@ -39370,7 +39370,7 @@ $1:function(a){var t=null,s=K.bX(this.a).Z,r=new P.aZ(8,8),q=a.a,p=s.f
 return new Q.yr(V.Uf(new T.iH(C.tF,T.tN(H.b([L.fv(q,t,p,C.eQ),C.x1,L.fv(a.b,t,p,C.eQ),C.x0,L.fv(a.f,t,s.y,C.eQ),C.x_,L.fv(a.c+" \u25cf "+q,t,s.Q,t)],u.E),C.bu,C.bp,C.oj),t),C.jV,t,t,new V.aH(0,16,0,16),new X.bP(C.q,new K.bi(r,r,r,r))))}}
 D.v9.prototype={
 K:function(a){var t=null
-return M.cv(t,T.tN(H.b([L.fv("Lupascu Daniel.\nGames Developer",t,A.eD(t,t,C.j,t,t,t,t,t,t,t,t,60,t,C.hF,t,1.3,!0,t,t,t,t,t,t),t),new T.cq(t,30,t,t),L.fv("Creative and ambitious Software Engineer with 9+ years of technical experience.\nI like experimenting as well as taking the time to solve a good challenge",t,A.eD(t,t,C.j,t,t,t,t,t,t,t,t,21,t,t,t,1.7,!0,t,t,t,t,t,t),t)],u.E),C.bu,C.oh,C.b0),t,t,t,t,t,t,600)}}
+return M.cv(t,T.tN(H.b([L.fv("Daniel Lupa\u0219cu.\nGames Developer",t,A.eD(t,t,C.j,t,t,t,t,t,t,t,t,60,t,C.hF,t,1.3,!0,t,t,t,t,t,t),t),new T.cq(t,30,t,t),L.fv("Creative and ambitious Software Engineer with 9+ years of technical experience.\nI like experimenting as well as taking the time to solve a good challenge",t,A.eD(t,t,C.j,t,t,t,t,t,t,t,t,21,t,t,t,1.7,!0,t,t,t,t,t,t),t)],u.E),C.bu,C.oh,C.b0),t,t,t,t,t,t,600)}}
 R.vI.prototype={
 K:function(a){var t=null,s=u.E
 return M.cv(t,T.xp(H.b([new T.cq(150,80,t,t),T.xp(H.b([],s),C.bv,C.bp,C.oj)],s),C.bv,C.oi,C.b0),t,t,t,100,t,t,t)}}

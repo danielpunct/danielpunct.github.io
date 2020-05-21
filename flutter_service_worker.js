@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "index.html": "570ebc2c558a7673b111897f5e4a5ddc",
 "/": "570ebc2c558a7673b111897f5e4a5ddc",
-"main.dart.js": "0829e99ed0b8a8ce3201a577300c8f1b"
+"main.dart.js": "edc09741bfe1575be7716ea4b052f073"
 };
 
 self.addEventListener('activate', function (event) {
